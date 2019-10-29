@@ -15,7 +15,7 @@ Single-agent pathfinding:
   Greedy conflict based search
   Cooperative Astar
   
-
+```bash
 └── algorithms
     ├── AlgorithmName.java
     ├── Astar
@@ -74,3 +74,4 @@ Single-agent pathfinding:
     └── trees
         ├── Node.java
         └── State.java
+```
